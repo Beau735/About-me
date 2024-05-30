@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ✨ About Me:
 🎓 I‘m currently a student for computer science <br>📱 I love to create fun applications <br>💡 always inspired and creative.
 
 
